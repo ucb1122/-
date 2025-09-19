@@ -5,3 +5,8 @@
 | 이름 | 진희헌 |
 | --- |:-----:|
 | 특기 | 음속 펀치 |
+
+## Skills
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)

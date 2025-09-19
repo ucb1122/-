@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
 ## 프로필
 
 <img width="630" height="917" alt="image" src="https://github.com/user-attachments/assets/7a44c338-00d3-4cef-99c5-acab8e205c2a" />
